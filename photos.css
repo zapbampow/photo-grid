@@ -1,0 +1,27 @@
+body {
+  font-family: Raleway, arial, sans-serif;
+}
+
+#wrapper {
+width: 100%;
+padding-left: 1.66%;
+}
+
+h1 {
+  width: 30%;
+  border-bottom: 2px #f1f1f1 solid;
+  font-weight: 800;
+  font-size: 2em;
+  padding-bottom: .5em;
+}
+
+.image {
+  display: inline-block;
+  width:30%;
+  margin: .83em 1.66em .83em 0;
+}
+
+img {
+  width: 100%;
+
+}
